@@ -1,1 +1,1 @@
-# CodeAlpha_Stock-Protofolio-Tracker
+# CodeAlpha_Stock-Portfolio-Tracker
