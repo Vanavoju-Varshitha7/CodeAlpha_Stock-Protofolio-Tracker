@@ -1,5 +1,5 @@
 stock_list={"AAPL":180,"TSLA":250,"GOOG":700,"YOUT":2700}
-print("<<<<<<<<<<<<<<<<<< Stock Protofolio Tracker >>>>>>>>>>>>>>>>>>>>>>>")
+print("<<<<<<<<<<<<<<<<<< Stock Portfolio Tracker >>>>>>>>>>>>>>>>>>>>>>>")
 num_input=int(input("How many stocks you want to add in the stock_list:"))
 sum=0
 lst=[]
@@ -40,4 +40,5 @@ if save_file=="yes":
             
 
   
+
 
